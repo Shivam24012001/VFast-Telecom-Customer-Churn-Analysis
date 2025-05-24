@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-VFast Telecom, a leading telecom service provider in **Varanasi 🇮🇳**, has seen a rise in customer churn for its broadband services. This analysis aims to uncover the **reasons behind customer churn** and provide actionable insights to help retain customers and reduce churn. 🤝
+VFast Telecom, a leading telecom service provider in **Varanasi **, has seen a rise in customer churn for its broadband services. This analysis aims to uncover the **reasons behind customer churn** and provide actionable insights to help retain customers and reduce churn. 🤝
 
 ---
 
